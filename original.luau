@@ -1,3 +1,5 @@
+--[[
+
 -- ================================================================
 --  ORBIT PRISMS  |  Script  |  ServerScriptService
 --  Host:   Reset6437
@@ -565,3 +567,5 @@ RunService.Heartbeat:Connect(function(dt)
 		end
 	end
 end)
+
+]]
